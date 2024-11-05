@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
-export default function Subscription(){
-  return (
-    <div>Subscription pages</div>
-  )
+export default function SubscriptionPage() {
+  return <div>Subscription pages</div>;
 }
